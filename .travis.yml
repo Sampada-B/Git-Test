@@ -1,3 +1,0 @@
-Language: Python
-python: 3.5.1
-script: python hello-world.py

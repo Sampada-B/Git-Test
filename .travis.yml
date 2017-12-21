@@ -1,10 +1,5 @@
 language: python
-
-python:
-
-	-3.5.1
-
-script:
-	-python hello-world.py
+python: 3.5.1
+script: hello-world
 
 
